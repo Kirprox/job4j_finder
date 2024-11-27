@@ -1,0 +1,4 @@
+C:\projects\job4j_design\data\target.csv
+C:\projects\job4j_design\file.csv
+C:\projects\job4j_design\target\site\jacoco\jacoco.csv
+C:\projects\job4j_design\target.csv
